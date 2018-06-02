@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Project Funnel" max_length="40" name="x_84079_project_fu_project_funnel" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="125" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="1000" name="u_string_3" type="string"/>
+    </element>
+</database>

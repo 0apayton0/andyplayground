@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_84079_project_fu_project_funnel">x_84079_project_fu_project_funnel</category>
+        <maximum_digits>6</maximum_digits>
+        <number>3000</number>
+        <prefix>PRO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-02 12:25:00</sys_created_on>
+        <sys_id>fd65e5c4db221300aa73fe1b6896197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRO</sys_name>
+        <sys_package display_value="Project Funnel - Down and Dirty" source="x_84079_project_fu">03342940db221300aa73fe1b689619f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Funnel - Down and Dirty">03342940db221300aa73fe1b689619f3</sys_scope>
+        <sys_update_name>sys_number_fd65e5c4db221300aa73fe1b6896197b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-02 12:25:00</sys_updated_on>
+    </sys_number>
+</record_update>
